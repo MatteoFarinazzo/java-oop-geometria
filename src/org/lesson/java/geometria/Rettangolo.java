@@ -25,4 +25,9 @@ public class Rettangolo {
         return area;
     }
 
+    String getData (){
+        String info = "Il perimetro è: " + getPerimeter() + ", mentre l'area è: " + getArea();
+        return info;
+    }
+
 }
