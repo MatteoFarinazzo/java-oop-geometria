@@ -25,6 +25,8 @@ public class Main {
 
         System.out.println(nuovoRettangolo.getData());
 
+        String printRectangle = nuovoRettangolo.disegna();
+
 
 
 
